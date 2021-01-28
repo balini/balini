@@ -1,5 +1,5 @@
   
-<section style="margin: 0 auto;">
+<section style="text-align: center;">
   ### Hello, world! 👋🙂
 
   <div style="display: flex; flex-direction: column; justify-content: center;">

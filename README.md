@@ -1,6 +1,8 @@
-![Code giphy](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+### Hello, world! 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balini)](https://github.com/balini/github-readme-stats)
+<a href="https://github.com/balini/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=balini&repo=github-readme-stats?theme=dark" />
+</a>
 
 <!--
 **balini/balini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,9 +1,11 @@
   
 ### Hello, world! 👋🙂
 
-🔭 I'm a Computer Science student at UFABC (Federal University of ABC).
-🌱 I'm passionate about web development (mostly about the JavaScript ecosystem).
-📫 If you feel like it, feel free to <a href="https://www.linkedin.com/in/marilia-cavalcanti/">reach me</a> anytime.
+<div style="display: flex; flex-direction: column; justify-content: center;">
+  <p>🔭 I'm a Computer Science student at UFABC (Federal University of ABC).</p>
+  <p>🌱 I'm passionate about web development (mostly about the JavaScript ecosystem).</p>
+  <p>📫 If you feel like it, feel free to <a href="https://www.linkedin.com/in/marilia-cavalcanti/">reach me</a> anytime.</p>
+</div>
   
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balini&theme=dark)

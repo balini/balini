@@ -1,7 +1,7 @@
 ### Hello, world! 
 
 <a href="https://github.com/balini/balini">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=balini&repo=balini?theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balini&repo=balini?theme=dark" />
 </a>
 
 <!--

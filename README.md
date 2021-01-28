@@ -1,8 +1,9 @@
-### Hello, world! 
+<p align="center">
+  
+  ### Hello, world!  
 
-<a href="https://github.com/balini/balini">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balini&repo=balini?theme=dark" />
-</a>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balini&theme=dark)
+</p>
 
 <!--
 **balini/balini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

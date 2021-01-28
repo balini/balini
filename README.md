@@ -1,6 +1,6 @@
 <p align="center">
   
-  ### Hello, world!  
+  ### Hello, world! 👋🙂
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balini&theme=dark)
 </p>

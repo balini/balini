@@ -3,8 +3,8 @@
 
 <div style="display: flex; flex-direction: column; justify-content: center;">
   <p>🔭 I'm a Computer Science student at UFABC (Federal University of ABC) currently working on Itaú as an intern.</p>
-  <p>🌱 I'm passionate about web development (mostly about the JavaScript ecosystem).</p>
-  <p>📫 If you feel like it, feel free to <a href="https://www.linkedin.com/in/marilia-cavalcanti/">reach me</a> anytime.</p>
+  <p>🌱 I'm passionate about web development (mostly the JavaScript ecosystem).</p>
+  <p>📫 Feel free to <a href="https://www.linkedin.com/in/marilia-cavalcanti/">reach me</a> anytime.</p>
 </div>
 
 

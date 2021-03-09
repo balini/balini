@@ -1,10 +1,10 @@
 
 ### Hello, world! 👋🙂
 
-<!--><div style="display: flex; flex-direction: column; justify-content: center;">
+<!--<div style="display: flex; flex-direction: column; justify-content: center;">
   <p>🔭 I'm a Computer Science student at UFABC (Federal University of ABC) currently working on Itaú as an intern.</p>
   <p>📫 Feel free to <a href="https://www.linkedin.com/in/marilia-cavalcanti/">reach me</a> anytime.</p>
-</div>
+</div>-->
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balini&theme=dark)
